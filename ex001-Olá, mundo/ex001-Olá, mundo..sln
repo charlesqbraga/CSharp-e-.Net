@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex001-Olá, mundo.", "..\ex001-Olá, mundo\ex001-Olá, mundo\ex001-Olá, mundo..csproj", "{C5AA844B-3B8B-447A-82F3-9766ADEA61EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex001-Olá, mundo.", "ex001-Olá, mundo\ex001-Olá, mundo..csproj", "{C5AA844B-3B8B-447A-82F3-9766ADEA61EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex002 - Criando Variáveis.", "ex002 - Criando Variáveis\ex002 - Criando Variáveis..csproj", "{ED314E9C-4DD1-4E72-8944-3F8F2E49842D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C5AA844B-3B8B-447A-82F3-9766ADEA61EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5AA844B-3B8B-447A-82F3-9766ADEA61EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5AA844B-3B8B-447A-82F3-9766ADEA61EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED314E9C-4DD1-4E72-8944-3F8F2E49842D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED314E9C-4DD1-4E72-8944-3F8F2E49842D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED314E9C-4DD1-4E72-8944-3F8F2E49842D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED314E9C-4DD1-4E72-8944-3F8F2E49842D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
