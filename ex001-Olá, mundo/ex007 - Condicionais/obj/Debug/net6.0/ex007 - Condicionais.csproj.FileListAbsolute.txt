@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\bin\Debug\net6.0\ex007 - Condicionais.exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\bin\Debug\net6.0\ex007 - Condicionais.deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\bin\Debug\net6.0\ex007 - Condicionais.runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\bin\Debug\net6.0\ex007 - Condicionais.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\bin\Debug\net6.0\ex007 - Condicionais.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\refint\ex007 - Condicionais.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ex007 - Condicionais.genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex007 - Condicionais\obj\Debug\net6.0\ref\ex007 - Condicionais.dll
