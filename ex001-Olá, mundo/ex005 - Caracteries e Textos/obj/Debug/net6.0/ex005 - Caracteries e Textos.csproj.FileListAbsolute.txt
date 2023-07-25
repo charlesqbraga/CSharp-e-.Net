@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\bin\Debug\net6.0\ex005 - Caracteries e Textos.exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\bin\Debug\net6.0\ex005 - Caracteries e Textos.deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\bin\Debug\net6.0\ex005 - Caracteries e Textos.runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\bin\Debug\net6.0\ex005 - Caracteries e Textos.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\bin\Debug\net6.0\ex005 - Caracteries e Textos.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\refint\ex005 - Caracteries e Textos.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ex005 - Caracteries e Textos.genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex005 - Caracteries e Textos\obj\Debug\net6.0\ref\ex005 - Caracteries e Textos.dll
