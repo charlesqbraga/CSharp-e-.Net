@@ -13,6 +13,7 @@ class Programa
 
         int idade;
         idade = 27.6;
+
         
         Console.WriteLine(salario);
         Console.WriteLine("Tecle Enter para fechar..");
