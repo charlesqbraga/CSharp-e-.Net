@@ -17,15 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex006 - Atribuições de Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex007 - Condicionais", "ex007 - Condicionais\ex007 - Condicionais.csproj", "{CAAFE45C-DBBA-41C3-9086-67B83E1C7902}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex008 - Condicionais II", "ex008 - Condicionais II\ex008 - Condicionais II.csproj", "{3748EC00-B344-4F91-A895-627E0AB93E7C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex008 - Condicionais II", "ex008 - Condicionais II\ex008 - Condicionais II.csproj", "{3748EC00-B344-4F91-A895-627E0AB93E7C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex009 - Escopo", "ex009 - Escopo\ex009 - Escopo.csproj", "{8B036A8C-36CC-4DB2-ACCA-4311BC02C429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex009 - Escopo", "ex009 - Escopo\ex009 - Escopo.csproj", "{8B036A8C-36CC-4DB2-ACCA-4311BC02C429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex010 - Imposto de Renda", "ex010 - Imposto de Renda\ex010 - Imposto de Renda.csproj", "{63515CF2-DDA7-4392-9C42-30204388F76E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex010 - Imposto de Renda", "ex010 - Imposto de Renda\ex010 - Imposto de Renda.csproj", "{63515CF2-DDA7-4392-9C42-30204388F76E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex011 - Calcular Poupança.", "ex011 - Calcular Poupança\ex011 - Calcular Poupança..csproj", "{E7796BE5-53A5-4E30-BB2B-A4C97EFF153D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex011 - Calcular Poupança.", "ex011 - Calcular Poupança\ex011 - Calcular Poupança..csproj", "{E7796BE5-53A5-4E30-BB2B-A4C97EFF153D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex012 - Calcular Poupança II", "ex012 - Calcular Poupança II\ex012 - Calcular Poupança II.csproj", "{1F45DA04-5481-41E3-B517-711BF136F782}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ex012 - Calcular Poupança II", "ex012 - Calcular Poupança II\ex012 - Calcular Poupança II.csproj", "{1F45DA04-5481-41E3-B517-711BF136F782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex013 - Investimentos a Longo Prazo.", "ex013 - Investimentos a Longo Prazo\ex013 - Investimentos a Longo Prazo..csproj", "{F48972E7-C2B4-495D-AD43-0725655484BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex014 - Encadeando For", "ex014 - Encadeando For\ex014 - Encadeando For.csproj", "{EC2E1749-491E-428A-8276-9C1662D6A4A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{1F45DA04-5481-41E3-B517-711BF136F782}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F45DA04-5481-41E3-B517-711BF136F782}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F45DA04-5481-41E3-B517-711BF136F782}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F48972E7-C2B4-495D-AD43-0725655484BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48972E7-C2B4-495D-AD43-0725655484BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48972E7-C2B4-495D-AD43-0725655484BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48972E7-C2B4-495D-AD43-0725655484BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC2E1749-491E-428A-8276-9C1662D6A4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC2E1749-491E-428A-8276-9C1662D6A4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC2E1749-491E-428A-8276-9C1662D6A4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC2E1749-491E-428A-8276-9C1662D6A4A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

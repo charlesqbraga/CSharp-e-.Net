@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex007 - Condicionais\\ex007 - Condicionais.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex007 - Condicionais\\ex007 - Condicionais.csproj",
       "projectName": "ex007 - Condicionais",
-      "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex007 - Condicionais\\ex007 - Condicionais.csproj",
+      "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex007 - Condicionais\\ex007 - Condicionais.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex007 - Condicionais\\obj\\",
+      "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex007 - Condicionais\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",

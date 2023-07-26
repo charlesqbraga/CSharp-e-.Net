@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex003 - Criando Variáveis Ponto Flutuante\\ex003 - Criando Variáveis Ponto Flutuante.csproj",
+      "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex003 - Criando Variáveis Ponto Flutuante\\ex003 - Criando Variáveis Ponto Flutuante.csproj",
       "projectName": "ex003 - Criando Variáveis Ponto Flutuante",
-      "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex003 - Criando Variáveis Ponto Flutuante\\ex003 - Criando Variáveis Ponto Flutuante.csproj",
+      "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex003 - Criando Variáveis Ponto Flutuante\\ex003 - Criando Variáveis Ponto Flutuante.csproj",
       "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex003 - Criando Variáveis Ponto Flutuante\\obj\\",
+      "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex003 - Criando Variáveis Ponto Flutuante\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",

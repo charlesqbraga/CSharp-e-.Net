@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex009 - Escopo\\ex009 - Escopo.csproj": {}
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex009 - Escopo\\ex009 - Escopo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex009 - Escopo\\ex009 - Escopo.csproj": {
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex009 - Escopo\\ex009 - Escopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex009 - Escopo\\ex009 - Escopo.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex009 - Escopo\\ex009 - Escopo.csproj",
         "projectName": "ex009 - Escopo",
-        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex009 - Escopo\\ex009 - Escopo.csproj",
+        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex009 - Escopo\\ex009 - Escopo.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex009 - Escopo\\obj\\",
+        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex009 - Escopo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",

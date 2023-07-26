@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj": {}
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj": {
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj",
+        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj",
         "projectName": "ex001-Olá, mundo.",
-        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj",
+        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex001-Olá, mundo\\ex001-Olá, mundo..csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex001-Olá, mundo\\obj\\",
+        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex001-Olá, mundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",

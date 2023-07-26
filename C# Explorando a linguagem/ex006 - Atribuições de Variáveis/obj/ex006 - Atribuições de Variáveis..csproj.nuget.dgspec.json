@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj": {}
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj": {
+    "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj",
+        "projectUniqueName": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj",
         "projectName": "ex006 - Atribuições de Variáveis.",
-        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj",
+        "projectPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex006 - Atribuições de Variáveis\\ex006 - Atribuições de Variáveis..csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\ex001-Olá, mundo\\ex006 - Atribuições de Variáveis\\obj\\",
+        "outputPath": "C:\\Users\\charl\\Documents\\Estudos\\CSharp-e-.Net\\C# Explorando a linguagem\\ex006 - Atribuições de Variáveis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",

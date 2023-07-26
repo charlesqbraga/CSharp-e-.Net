@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ex013 - Investimentos a Longo Prazo./1.0.0": {
+        "runtime": {
+          "ex013 - Investimentos a Longo Prazo..dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex013 - Investimentos a Longo Prazo./1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

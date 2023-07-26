@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\bin\Debug\net6.0\ex013 - Investimentos a Longo Prazo..exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\bin\Debug\net6.0\ex013 - Investimentos a Longo Prazo..deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\bin\Debug\net6.0\ex013 - Investimentos a Longo Prazo..runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\bin\Debug\net6.0\ex013 - Investimentos a Longo Prazo..dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\bin\Debug\net6.0\ex013 - Investimentos a Longo Prazo..pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\refint\ex013 - Investimentos a Longo Prazo..dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ex013 - Investimentos a Longo Prazo..genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex013 - Investimentos a Longo Prazo\obj\Debug\net6.0\ref\ex013 - Investimentos a Longo Prazo..dll

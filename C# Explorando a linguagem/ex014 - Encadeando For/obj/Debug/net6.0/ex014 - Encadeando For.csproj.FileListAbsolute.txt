@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\bin\Debug\net6.0\ex014 - Encadeando For.exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\bin\Debug\net6.0\ex014 - Encadeando For.deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\bin\Debug\net6.0\ex014 - Encadeando For.runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\bin\Debug\net6.0\ex014 - Encadeando For.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\bin\Debug\net6.0\ex014 - Encadeando For.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\refint\ex014 - Encadeando For.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ex014 - Encadeando For.genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\C# Explorando a linguagem\ex014 - Encadeando For\obj\Debug\net6.0\ref\ex014 - Encadeando For.dll
