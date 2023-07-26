@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\bin\Debug\net6.0\ex008 - Condicionais II.exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\bin\Debug\net6.0\ex008 - Condicionais II.deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\bin\Debug\net6.0\ex008 - Condicionais II.runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\bin\Debug\net6.0\ex008 - Condicionais II.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\bin\Debug\net6.0\ex008 - Condicionais II.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\refint\ex008 - Condicionais II.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ex008 - Condicionais II.genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex008 - Condicionais II\obj\Debug\net6.0\ref\ex008 - Condicionais II.dll
