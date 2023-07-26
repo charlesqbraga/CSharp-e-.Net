@@ -1,0 +1,15 @@
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\bin\Debug\net6.0\ex009 - Escopo.exe
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\bin\Debug\net6.0\ex009 - Escopo.deps.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\bin\Debug\net6.0\ex009 - Escopo.runtimeconfig.json
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\bin\Debug\net6.0\ex009 - Escopo.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\bin\Debug\net6.0\ex009 - Escopo.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.csproj.AssemblyReference.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.AssemblyInfoInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.AssemblyInfo.cs
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.csproj.CoreCompileInputs.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\refint\ex009 - Escopo.dll
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.pdb
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ex009 - Escopo.genruntimeconfig.cache
+C:\Users\charl\Documents\Estudos\CSharp-e-.Net\ex001-Olá, mundo\ex009 - Escopo\obj\Debug\net6.0\ref\ex009 - Escopo.dll
